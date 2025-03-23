@@ -1,4 +1,8 @@
 """
+Scenario: Phishing Attack Using a Malicious Domain
+A security analyst detects a phishing campaign where attackers use a
+fake login page hosted on "malicious-login[.]com" to steal credentials.
+
 This simple STIX example demonstrates how a
 CTI analyst can classify and document threat
 events in a structured format.
