@@ -3,5 +3,5 @@
 ## Installing Prerequisites
 Install requirements by running:
 ```bash
-$ pip install stix2
+$ pip install -r requirements.txt
 ```
